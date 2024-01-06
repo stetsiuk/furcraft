@@ -1,0 +1,3 @@
+[submodule "furcraft-client"]
+	path = furcraft-client
+	url = git@github.com:stetsiuk/furcraft-client.git
